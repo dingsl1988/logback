@@ -1,0 +1,14 @@
+.gitattributes ===> merge help
+
+.travis.yml ===> must be github, continuous integration
+
+codeStyle.xml ===> code format
+
+contributing.md ===> push suggest
+
+findbugs-exclude.xml ===> exclude few file to find bugs;
+
+goscp ===> go scp file
+
+
+
